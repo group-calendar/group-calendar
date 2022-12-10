@@ -1,0 +1,6 @@
+[submodule "group-calendar-application"]
+	path = group-calendar-application
+	url = https://github.com/group-calendar/group-calendar-application
+[submodule "group-calendar-server"]
+	path = group-calendar-server
+	url = https://github.com/group-calendar/group-calendar-server
